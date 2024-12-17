@@ -13,8 +13,8 @@ I am passionate about building scalable systems, fostering innovation within tea
 ### 🛠️ **Skills & Expertise**
 - **Leadership & Strategy**: Technology Roadmapping, Team Building, Cross-functional Collaboration  
 - **Technology & Innovation**: Cloud Computing (Azure,GCP ), System Architecture, Emerging Technologies (AI/ML, IoT)  
-- **Software Development**: API Integrations, DevOps Practices, Micro Services Agile Methodologies  
-- **Business Acumen**: IT Strategy Alignment, Budget Management, Stakeholder Engagement  
+- **Software Development**: API Integrations, DevOps Practices, Micro Services 
+- **Business Acumen**: IT Strategy Alignment, Budget Management, Stakeholder Engagement ,Agile Methodologies  
 
 ---
 
