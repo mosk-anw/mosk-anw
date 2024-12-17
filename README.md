@@ -24,9 +24,12 @@ I am passionate about building scalable systems, fostering innovation within tea
 
 ---
 
+<!-- Project Badges
 ### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosk-anw&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosk-anw&layout=compact&theme=radical)
+
+-->
 
 ---
 
